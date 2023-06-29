@@ -10,5 +10,7 @@ namespace ExaminationAuthentication.Repositories.GradeRepository
         void AddGrade(Student_Exam student_Exam);
         void EditGrade(Student_Exam student_Exam);
 
+        List<Student_Exam> GetStudentsGradeByExamID(int ExamId);
+
     }
 }

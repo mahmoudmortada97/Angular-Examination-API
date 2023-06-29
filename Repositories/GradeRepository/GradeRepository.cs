@@ -32,5 +32,10 @@ namespace ExaminationAuthentication.Repositories.GradeRepository
         {
             return _appDbContext.Students_Exams.FirstOrDefault(se => se.ExamId == ExamId && se.StudentId == studentId)!;
         }
+
+        public List<Student_Exam> GetStudentsGradeByExamID(int ExamId)
+        {
+            return _appDbContext.Students_Exams.Where(se=>se.ExamId ==ExamId).Include(se=>se.Student).ToList();
+        }
     }
 }

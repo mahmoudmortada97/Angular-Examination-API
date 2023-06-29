@@ -37,6 +37,31 @@ namespace ExaminationAuthentication.Controllers
             return Ok(student_Exams);
         }
 
+        [HttpGet("{ExamId}")]
+        public async Task<ActionResult<Student_Exam>> GetStudentGradesByExamId(int ExamId)
+        {
+            if (ExamId == null)
+            {
+                return BadRequest();
+            }
+            List<Student_Exam> student_Exams = _gradeRepository.GetStudentsGradeByExamID(ExamId);
+
+            List<StudentsGradesDTO> studentGrades = new List<StudentsGradesDTO>();
+
+            foreach (var item in student_Exams)
+            {
+                StudentsGradesDTO studentsGradesItem = new StudentsGradesDTO
+                {
+                    StudentEmail = item.Student.Email,
+                    Grade = item.Grade
+
+                };
+                studentGrades.Add(studentsGradesItem);
+            }
+
+            return Ok(studentGrades);
+        }
+
         [HttpGet("students/{studentId}/exams/{examId}")]
         public async Task<ActionResult> GetStudentGradeInExam(string studentId, int examId)
         {
