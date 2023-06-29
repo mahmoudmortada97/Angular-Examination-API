@@ -1,0 +1,415 @@
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\appsettings.json
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.exe
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.deps.json
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.runtimeconfig.json
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.pdb
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Humanizer.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.csproj.AssemblyReference.cache
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.AssemblyInfoInputs.cache
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.AssemblyInfo.cs
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.ExaminationAuthentication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.build.ExaminationAuthentication.props
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExaminationAuthentication.props
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExaminationAuthentication.props
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\scopedcss\bundle\ExaminationAuthentication.styles.css
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.csproj.CopyComplete
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\refint\ExaminationAuthentication.dll
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.pdb
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.genruntimeconfig.cache
+C:\Users\JOO TECH\Desktop\Examination API\ExaminationAuthentication\obj\Debug\net7.0\ref\ExaminationAuthentication.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\appsettings.Development.json
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\appsettings.json
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.exe
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.deps.json
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.runtimeconfig.json
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.pdb
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Azure.Core.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Azure.Identity.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Humanizer.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\System.CodeDom.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\System.Memory.Data.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.csproj.AssemblyReference.cache
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.AssemblyInfoInputs.cache
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.AssemblyInfo.cs
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.csproj.CoreCompileInputs.cache
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.MvcApplicationPartsAssemblyInfo.cs
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.MvcApplicationPartsAssemblyInfo.cache
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.ExaminationAuthentication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.build.ExaminationAuthentication.props
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExaminationAuthentication.props
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExaminationAuthentication.props
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets.pack.json
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets.build.json
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets.development.json
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\scopedcss\bundle\ExaminationAuthentication.styles.css
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.csproj.CopyComplete
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\refint\ExaminationAuthentication.dll
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.pdb
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.genruntimeconfig.cache
+D:\iti\17 Es6 + Angular\Angular\Angular Project\ExaminationAuthentication\obj\Debug\net7.0\ref\ExaminationAuthentication.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\appsettings.json
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.exe
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.deps.json
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.runtimeconfig.json
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.pdb
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Humanizer.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.csproj.AssemblyReference.cache
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.AssemblyInfoInputs.cache
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.AssemblyInfo.cs
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.ExaminationAuthentication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.build.ExaminationAuthentication.props
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExaminationAuthentication.props
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExaminationAuthentication.props
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\scopedcss\bundle\ExaminationAuthentication.styles.css
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.csproj.CopyComplete
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\refint\ExaminationAuthentication.dll
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.pdb
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.genruntimeconfig.cache
+C:\Users\JOO TECH\Desktop\ExaminationAuthentication\obj\Debug\net7.0\ref\ExaminationAuthentication.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\appsettings.json
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.exe
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.deps.json
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.runtimeconfig.json
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.pdb
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.csproj.AssemblyReference.cache
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.AssemblyInfoInputs.cache
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.AssemblyInfo.cs
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.ExaminationAuthentication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.build.ExaminationAuthentication.props
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExaminationAuthentication.props
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExaminationAuthentication.props
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\scopedcss\bundle\ExaminationAuthentication.styles.css
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.csproj.CopyComplete
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\refint\ExaminationAuthentication.dll
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.pdb
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.genruntimeconfig.cache
+C:\Users\mahmo\Downloads\ExaminationAuthentication\obj\Debug\net7.0\ref\ExaminationAuthentication.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\appsettings.Development.json
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\appsettings.json
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.exe
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.deps.json
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.runtimeconfig.json
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\ExaminationAuthentication.pdb
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Azure.Core.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Azure.Identity.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Humanizer.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\System.CodeDom.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.csproj.AssemblyReference.cache
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.AssemblyInfoInputs.cache
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.AssemblyInfo.cs
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.csproj.CoreCompileInputs.cache
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.ExaminationAuthentication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.build.ExaminationAuthentication.props
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExaminationAuthentication.props
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExaminationAuthentication.props
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets.build.json
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\staticwebassets.development.json
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\scopedcss\bundle\ExaminationAuthentication.styles.css
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.csproj.CopyComplete
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\refint\ExaminationAuthentication.dll
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.pdb
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\ExaminationAuthentication.genruntimeconfig.cache
+D:\Work\ITI\Projects\ExaminationAuthentication\obj\Debug\net7.0\ref\ExaminationAuthentication.dll
